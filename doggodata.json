@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Cavalier King Charles Spaniel",
+    "image": "Cav.jpg",
+    "price": "350000"
+  },
+  {
+    "name": "Chao Chao",
+    "image": "ChaoChao.jpg",
+    "price": "40000"
+  },
+  {
+    "name": "Corgi",
+    "image": "Corgi.jpg",
+    "price": "16000"
+  },
+  {
+    "name": "Dalmatian",
+    "image": "Dal.jpg",
+    "price": "12000"
+  },
+  {
+    "name": "German Shepherd",
+    "image": "German.jpg",
+    "price": "15000"
+  },
+  {
+    "name": "Golden Retriever",
+    "image": "GoldenRetriever.jpg",
+    "price": "7000"
+  },
+  {
+    "name": "Pitbull",
+    "image": "Pit.jpg",
+    "price": "10000"
+  },
+  {
+    "name": "Pomeranian",
+    "image": "Pom.jpg",
+    "price": "9500"
+  },
+  {
+    "name": "Poodle",
+    "image": "Poodle.jpg",
+    "price": "6500"
+  },
+  {
+    "name": "Samoyed",
+    "image": "Samoyed.jpg",
+    "price": "120000"
+  }
+]
